@@ -1,4 +1,4 @@
-import { romanToInteger } from './BasicSyntax';
+import { romanToInteger } from './BasicSyntax.js';
 
 describe('Базовый синтаксис', () => {
     it('Преобразование римских чисел в арабские', () => {
